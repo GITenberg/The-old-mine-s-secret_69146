@@ -1,0 +1,37 @@
+_repo: The-old-mine-s-secret_69146
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wright, G. Frederick (George Frederick)
+    alias: Wright, George Frederick
+    birthdate: 1838
+    deathdate: 1921
+    gutenberg_agent_id: '46164'
+    url: http://www.gutenberg.org/2009/agents/46164
+creator:
+  author:
+    agent_name: Turpin, Edna Henry Lee
+    birthdate: 1867
+    deathdate: 1952
+    gutenberg_agent_id: '6842'
+    url: http://www.gutenberg.org/2009/agents/6842
+description: ''
+gutenberg_issued: '2022-10-13'
+identifiers:
+  gutenberg: '69146'
+language: en
+pgterms:marc904: https://archive.org/details/oldminessecret00turp_1/page/n3/mode/2up?q=the+old+mine%5C%27s+secret
+pgterms:marc905: 20220727113805turpin
+pgterms:marc906: '1921'
+pgterms:marc907: US
+production_note: Carla Foust, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: 'United States: The MacMillan Company,1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The old mine's secret
+url: http://www.gutenberg.org/ebooks/69146
